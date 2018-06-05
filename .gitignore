@@ -7,7 +7,7 @@
 
 # dependencies
 /node_modules
-
+/electron-with-angular-darwin-x64
 # IDEs and editors
 /.idea
 .project
